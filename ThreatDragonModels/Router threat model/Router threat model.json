@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Router threat model",
+    "owner": "sreelekshmi p s"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Router threat model",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
